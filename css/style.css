@@ -1,5 +1,6 @@
 body{
     scroll-behavior: smooth;
+    
 }
 .container{
     width: 80%;
@@ -29,4 +30,7 @@ body{
 .actor{
     width: 500px;
     text-align: center;
+}
+.media-title{
+    color: red;
 }
